@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+*.pkl
+*.json
+*.log
+data/*.csv
+data/*.pkl
+models/
+logs/
+config/encryption_key.key
+config/account_cache.pkl
+.DS_Store
